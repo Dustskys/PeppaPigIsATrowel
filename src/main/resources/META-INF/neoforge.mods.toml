@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[1,)"
-license="LGPL v2.1"
+license="CC-BY-NC-SA v4.0"
 
 [[mods]]
     modId="peppapig"
