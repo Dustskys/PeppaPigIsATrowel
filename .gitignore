@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+
+# MDG
+run/
+logs/
+
+# Eclipse
+*.launch
+.classpath
+.project
+.settings/
+.metadata/
+bin/

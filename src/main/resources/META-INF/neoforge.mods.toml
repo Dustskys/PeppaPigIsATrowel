@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="LGPL v2.1"
+
+[[mods]]
+    modId="peppapig"
+    displayName="Peppa Pig is a Trowel"
+    description='''
+    A mod that adds trowels.
+    '''
+    version="${file.jarVersion}"
+    authors="Dustskys"
+
+[[dependencies.peppapig]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1,21.2)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.peppapig]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21,1.21.2)"
+    ordering="NONE"
+    side="BOTH"
